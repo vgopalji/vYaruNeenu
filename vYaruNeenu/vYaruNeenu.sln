@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vYaruNeenu.Application", "vYaruNeenu.Application", "{86C96B9F-AD66-4807-83E8-2C719452BF2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vYaruNeenu.Infra.Data", "vYaruNeenu.Infra.Data", "{69397257-ADD2-4F1D-AC7A-A26805345A9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vYaruNeenu.Infra.IoC", "vYaruNeenu.Infra.IoC", "{673F04FA-50B5-43C4-9F83-DB42DE087AF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vYaruNeenu.Domain", "vYaruNeenu.Domain", "{966A8D5D-0588-4E30-969E-7B34C1FF6E44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vYaruNeenu.UI.mvc", "vYaruNeenu.UI.mvc", "{A3033AB6-6F99-4555-A136-7492204DF999}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
